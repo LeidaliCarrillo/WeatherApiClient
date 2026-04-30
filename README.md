@@ -96,4 +96,4 @@ La clase lanza excepciones en caso de:
 
 ### 👨‍💻 Autor
 Ledialí Carrillo Fernández
-Proyecto de práctica Java para consumo de APIs REST.
+
